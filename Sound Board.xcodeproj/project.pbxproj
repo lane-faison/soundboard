@@ -99,6 +99,7 @@
 				TargetAttributes = {
 					F69A0B3E1EB6355A001989FF = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = GW32FNEFP3;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -266,6 +267,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = GW32FNEFP3;
 				INFOPLIST_FILE = "Sound Board/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.lanefaison.Sound-Board";
@@ -278,6 +280,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = GW32FNEFP3;
 				INFOPLIST_FILE = "Sound Board/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.lanefaison.Sound-Board";
